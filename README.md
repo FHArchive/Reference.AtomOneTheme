@@ -9,7 +9,7 @@
 
 # Reference.AtomOneTheme
 
-<img src="readme-assets/icons/proj-icon.png" alt="Project Icon" width="100">
+<img src="readme-assets/icons/name.png" alt="Project Icon" width="750">
 
 A repository containing and lining to other repositories for the Atom One Theme
 Light and Dark Variants for a range of text editors and other applications.
