@@ -24,6 +24,13 @@ are having issues feel free to contribute or open an issue.
 the most complete themes. The aim is to locate themes for these applications and
 hopefully extend this)
 
+### Base24
+https://github.com/Base24/base24
+
+Follow the link above and find your application. select it from the Template
+Repositories section and follow the instructions for the application in
+question. This is the easiest option.
+
 ### Base16
 https://github.com/chriskempson/base16
 
